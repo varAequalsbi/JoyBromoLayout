@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.tar.gz
+model/geometry-register.json
+model/existing-overview.png
